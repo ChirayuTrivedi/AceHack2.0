@@ -1,0 +1,217 @@
+#title{
+    background-color: #f93552;
+    color: aliceblue;
+  }
+  .completeContainer{
+    background-color: white;
+  }
+  
+  /* .row{
+    padding: 3% 15%;
+  } */
+  .container-fluid1{
+    padding: 3% 15%;
+  }
+  h1.hah1{
+    font-size: 4.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  a.navbar-brand{
+    font-size: 2.5rem;
+    font-weight: bold;
+    /* padding-bottom: 4.5rem; */
+  }
+  .nav-item{
+    padding: 0px 18px;
+  }
+  .username{
+    margin-left: 10%;
+    color: #ded3d4;
+    font-size: 2rem;
+    text-decoration: none;
+    
+  }
+  .username:hover{
+    color: #f93552;
+    background-color: #ded3d4;
+    padding: 10px;
+    border-radius: 10%;
+  }
+  .log{
+    text-align: center;
+    background-color: #ff4e68;
+    color: #ded3d4;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+  }
+  .log:hover{
+    color:#ff4e68;
+    background-color: #fffefe;
+  }
+  a.nav-link{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.6rem;
+  }
+  .download_button{
+    margin: 5% 3% 5% 0%;    
+  }
+  .title-image{
+    width: 55%;
+    transform: rotate(5deg)
+  }
+  .tick{
+    height: 38%;
+  }
+  #features{
+    padding-left:15%;
+    padding-top: 7%;
+    padding-right: 15%;
+    padding-bottom: 7%  ;
+    background-color: white;
+  }
+  .feature-box{
+    text-align: center;
+    font-family: monospace;
+   
+  }
+  .fa{
+    height: 100px ;
+  
+  }
+  .icon{
+    color: #f93552;
+  }
+  .icon:hover{
+    color: aqua;
+  }
+  #testimonials{
+    /* margin-bottom: 20%; */
+    text-align: center;
+    background-color: #ff4e68;
+    color: #fffefe;
+  }
+  h2{
+    color: rgb(252, 252, 252);
+    font-family: cursive;
+  }
+  img.testimonials-image{
+    /* width: 15%; */
+    border-radius: 50%;
+    border: 2px solid white ;
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    /* text-align: center; */
+  }
+  #press{
+    background-color: #ff4e68;
+    font-family: cursive;
+    margin-bottom: 50px;
+    border-bottom-width: 50px;
+    padding-bottom: 63px;
+    background-color: white;
+    /* text-align: center; */
+    
+  }
+  .press-loop{
+    width: 20%;
+    margin: auto;
+  }
+  .carousel-item{
+    height: 600px;
+    padding: 7% 15%;
+    
+    /* background-color: blue; */
+  }
+  /* .c1{
+    z-index: 100;
+  } */
+  /* .c2{
+    background-color: blue;
+  }
+  .c3{
+    background-color: bisque;
+  } */
+  /* img.testimonials-image-lady{
+    border-radius: 100%;
+    width: 20%;
+    margin-top: 20px;
+    
+    height: 100px;
+    width: 100px;
+  } */
+  
+  #pricing{
+    padding: 1px 100px 100px 100px;
+    text-align: center;
+    background-color: white;
+  }
+  .pricing-column{
+    padding-bottom: 3% 2%;
+  }
+  .name {
+    padding-bottom: 5%;
+    
+  }
+  .price-box {
+    color: #ff4e68;
+  }
+  .card.card-footer {
+    text-align: center;
+  }
+
+  .log{
+    width: 150px;
+  }
+
+  /* .testimonials-image{
+    
+    ro
+  } */
+  /* .logoutt{
+    justify-content: center;
+    align-items: center;
+  } */
+  .myDogs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .onedog{
+    margin: 20px;
+  }
+
+
+  #myDogHeading{
+    width: 100%;
+    font-size: 40px;
+  /* background-color: #ff4e68; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .detail{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .aaa{
+    width: 150px!important;
+    text-align: center;
+    transition: smooth;
+    /* background-color: #3594f9; */
+  }
+  #myDogs{
+    transition: smooth;
+  }
+
+  .abc{
+    font-size: 18px;
+    font-weight: 400;
+  }
